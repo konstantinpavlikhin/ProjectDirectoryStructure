@@ -1,3 +1,4 @@
+```
 ☐ AwesomeProject
 │
 ┝╸.gitignore
@@ -77,3 +78,4 @@
 ┝╸LICENSE.md
 │
 ┕╸README.md
+```
